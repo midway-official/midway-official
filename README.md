@@ -3,7 +3,7 @@
 - 🏳️‍⚧️  trans mtx
 - 🌱 Currently learning computational fluid dynamics, python c++
 - 💞️ Writing a two-dimensional finite volume computational fluid dynamics solver
-- 📫 midwayofficial￥！@gmail.com
+- 📫 midwayofficial41@gmail.com
 - 😄 Feel free to use personal pronouns, I'd be happy if you used female personal pronouns
 - 🥹🥹🥹I'm cute, please give me stars🥹🥹🥹
 
