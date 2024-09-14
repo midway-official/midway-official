@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @midway-official
 - 👀 Currently studying Shipbuilding and Ocean Engineering at Harbin Institute of Technology
-- 🏳️‍⚧️  trans mtx
+- 🏳️‍⚧️ crossdressing（maybe）
 - 🌱 Currently learning computational fluid dynamics, python c++
 - 💞️ Writing a two-dimensional finite volume computational fluid dynamics solver
 - 📫 midwayofficial41@gmail.com
