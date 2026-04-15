@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @midway-official
 - 👀 Currently studying Shipbuilding and Ocean Engineering at Harbin Institute of Technology
-- 👗 crossdressing
 - 🌱 Currently learning Computational Fluid Dynamics, Python and C++
 - 🐦 Twitter / X: [@cv41__midway](https://x.com/cv41__midway)
 - 📫 midwayofficial41@gmail.com
